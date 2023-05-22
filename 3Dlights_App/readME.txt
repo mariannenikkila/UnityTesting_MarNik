@@ -1,0 +1,1 @@
+Tässä ajettavassa softassa terraria ominaisuutta hyödyntäen on luotu maailma, jossa pelaaja voi seikkailla. Pelaajalla on mukanaan taskulamppu, jonka saa päälle L-näppäintä painamalla.

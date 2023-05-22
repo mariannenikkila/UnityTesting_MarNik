@@ -1,0 +1,1 @@
+Tässä pc:llä ajattevassa softassa koira juoksee kivien takaa ja lintu lentää puiden välissä. Linnun suuntaa on mahdollista muuttaa nuolinäppäimillä. Pelin alku skene on hieman erikoinen, koska en osannut vielä siinä vaiheessa tehdä skeneä. Loppu skenestä huomaa selkeän kehityksen ja on paremmin käytettävissä.

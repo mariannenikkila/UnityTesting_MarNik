@@ -1,0 +1,1 @@
+Tässä pc:llä ajattevassa softassa lintuja voidaan ampua kohti rakennuksissa olevia possuja. Tykin asentoa säädellään nuolinäppäimillä. CTRL -nappia painaessa tykki ampuu linnun ilmaan.

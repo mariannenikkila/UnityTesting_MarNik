@@ -1,0 +1,3 @@
+Tässä ajettavassa softassa terraria ominaisuutta hyödyntäen on luotu maailma, jossa pelaaja voi seikkailla. Pelaajaa kuitenkin jahtaa hämähäkki, jonka animaatio muuttuu tarpeeksi lähellä pelaajaa. 
+
+Kuvankaappauksissa MaailmanRajojenMääritys ja PuuttuvaComponentti on nähtävissä maailma johon lähdin alunperin totetuttamaan tätä, mutta äkkiä huomasin työn olevankin todella aikaa vievää. Ajattelin omalla ajalla tehdä toteutuksen loppuun, mutta tähän palautukseen tein erittäin yksinkertaisen toteutuksen.
